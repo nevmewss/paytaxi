@@ -1,0 +1,19 @@
+<svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_b_682_2185)">
+<circle cx="18" cy="18" r="18" transform="matrix(-1 0 0 1 36 0)" fill="url(#paint0_radial_682_2185)"/>
+<circle cx="18" cy="18" r="17.5" transform="matrix(-1 0 0 1 36 0)" stroke="#D2D2D2"/>
+</g>
+<path d="M12.668 18H23.3346M18.0013 23.3333V18L18.0013 12.6666" stroke="#040403" stroke-width="1.5" stroke-linecap="round"/>
+<defs>
+<filter id="filter0_b_682_2185" x="-30" y="-30" width="96" height="96" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="15"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_682_2185"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_682_2185" result="shape"/>
+</filter>
+<radialGradient id="paint0_radial_682_2185" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(18 18) rotate(90) scale(18)">
+<stop stop-color="#FFAE20"/>
+<stop offset="0.947917" stop-color="#F6F6F9" stop-opacity="0.68"/>
+</radialGradient>
+</defs>
+</svg>
